@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ColorGuessingGame</string>
+    <string name="play">Play</string>
+    <string name="exit">Exit</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="purple">Purple</string>
+    <string name="brown">Brown</string>
+    <string name="submit">Submit</string>
+    <string name="which_color_do_you_see_above">Which Color do you see above?</string>
+</resources>
